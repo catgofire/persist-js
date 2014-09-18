@@ -101,7 +101,7 @@ persistent client-side storage through the following backends:
    * ie:            Internet Explorer userdata behaviors.
    * cookie:        Cookie-based persistent storage.
 
-Each backend is wrapped by PersistJS and exploses the exact same
+Each backend is wrapped by PersistJS and exposes the exact same
 interface, which means you don't have to know or care which backend is
 being used.  The next section explains how to use the PersistJS API.
 
